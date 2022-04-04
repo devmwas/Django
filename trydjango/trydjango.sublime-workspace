@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"spa",
+				"space-between\talign-content"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"scro",
+				"scrollmenus"
+			],
+			[
+				"lef",
+				"leftPos"
+			],
+			[
+				"scol",
+				"scrollmenus"
+			],
+			[
+				"left",
+				"left-scroll"
+			],
+			[
+				"right",
+				"right-scroll"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"navba",
+				"navbar-right"
+			],
+			[
+				"do",
+				"donorpar"
+			],
+			[
+				"d",
+				"donorpic"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"im",
+				"image-wrapper1"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"head",
+				"headwrap"
+			],
+			[
+				"s",
+				"sWidth"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"bo",
+				"border-spacing\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"holder",
+				"holder2"
+			],
+			[
+				"b",
+				"boardpic"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"board",
+				"boardpic"
+			],
+			[
+				"boa",
+				"boardn"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"mento",
+				"mentor"
+			],
+			[
+				"ment",
+				"mentor"
+			],
+			[
+				"foo",
+				"food"
+			],
+			[
+				"food",
+				"foodpic"
+			],
+			[
+				"mach",
+				"machariapic"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"meet",
+				"meetpic"
+			],
+			[
+				"mee",
+				"meetp"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"meeting",
+				"meetingn"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"leader",
+				"leaders"
+			],
+			[
+				"D",
+				"display\tproperty"
+			],
+			[
+				"MAR",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"hand",
+				"hands1"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"joi",
+				"joiningHands"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"title",
+				"titles"
+			],
+			[
+				"t",
+				"titles"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"e",
+				"expands"
+			],
+			[
+				"exp",
+				"expands"
+			],
+			[
+				"ex",
+				"expands"
+			],
+			[
+				"menu",
+				"menu-items"
+			],
+			[
+				"men",
+				"menu-items"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text-orie",
+				"text-orientation\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"ori",
+				"text-orientation\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"MARGI",
+				"margin-left\tproperty"
+			],
+			[
+				"pdd",
+				"padding-left\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/hp/Dev/trydjango"
+	],
+	"file_history":
+	[
+		"/C/Users/hp/trydjango.sublime-project",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/view-ticket-admin.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/view-ticket.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/users.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/tickets.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/register.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/README.md",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/example.html",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/place-order.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/orders.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/login.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/index.php",
+		"/C/Users/hp/Downloads/Online Food Order System Project-1569244428/online_food_ordering_system/connection.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/details.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/confirm-order.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/all-tickets.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/all-orders.php",
+		"/C/xampp/htdocs/Food-Ordering-system-master/Food-Ordering-system-master/admin-page.php",
+		"/C/Users/hp/Dev/mwasproj/Pipfile",
+		"/C/Users/hp/Desktop/rufus-3.5.exe",
+		"/C/Users/hp/Downloads/Online Food Order System Project-1569244428/online_food_ordering_system/contact.php",
+		"/C/Users/hp/Desktop/KamitiWebsite/kamiti.html",
+		"/C/Users/hp/Downloads/Online Food Order System Project-1569244428/online_food_ordering_system/update.php",
+		"/C/Users/hp/Desktop/KamitiWebsite/final_projects.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/final_history.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/final_members.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/final_about.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/final_home.html",
+		"/C/Users/hp/Desktop/GT Website/regina-video-poems.html",
+		"/C/Users/hp/Desktop/GT Website/regina-audio-poems.html",
+		"/C/Users/hp/Desktop/GT Website/regina-word-poems.html",
+		"/C/Users/hp/Desktop/GT Website/regina-contacts.html",
+		"/C/Users/hp/Desktop/GT Website/regina-about.html",
+		"/C/Users/hp/Desktop/GT Website/regina-blog.html",
+		"/C/Users/hp/Desktop/GT Website/regina-home.html",
+		"/C/Users/hp/Desktop/GT Website/KamitiFinal.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/hellos.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/regina-style.css",
+		"/C/Users/hp/Desktop/KamitiWebsite/regina-home.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/about.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/history.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/zindex.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/members.html",
+		"/C/Users/hp/Desktop/KamitiWebsite/stkamiti.css",
+		"/C/Users/hp/Desktop/KamitiWebsite/projects.html",
+		"/C/Users/hp/Desktop/kamiti.html",
+		"/C/Users/hp/Desktop/members.html",
+		"/C/Users/hp/Desktop/stkamiti.css",
+		"/C/Users/hp/Desktop/about.html",
+		"/C/Users/hp/Desktop/history.html",
+		"/C/Users/hp/Desktop/projects.html",
+		"/C/Users/hp/Desktop/projects2.html",
+		"/C/Users/hp/Desktop/history2.html",
+		"/C/Users/hp/Desktop/about2.html",
+		"/C/Users/hp/Desktop/members2.html",
+		"/C/Users/hp/Desktop/taster.html",
+		"/C/Users/hp/Desktop/gitLearn/.git/HEAD",
+		"/C/Users/hp/Desktop/gitLearn/mwas-testing/mwas-testing/README.md",
+		"/C/Users/hp/Documents/Assignment.css",
+		"/C/Users/hp/Documents/More.html",
+		"/C/Users/hp/Documents/Activities.html",
+		"/C/Users/hp/Documents/Friends.html",
+		"/C/Users/hp/Documents/Home.html",
+		"/C/Users/hp/Documents/navigate.html",
+		"/C/Users/hp/Documents/history.html",
+		"/C/Users/hp/Documents/timeout.html",
+		"/C/Users/hp/Documents/open.html",
+		"/C/Users/hp/Documents/confirm.html",
+		"/C/Users/hp/Documents/promptalert.html",
+		"/C/Users/hp/Documents/webs.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"6",
+			"\">\n",
+			"rgb(245,245,245)",
+			"rgb(225,225,225)",
+			";\n",
+			"rgb(225,225,225)",
+			"yellow",
+			"z",
+			"15",
+			"100",
+			"%;\n",
+			"pink",
+			".<",
+			"margin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
